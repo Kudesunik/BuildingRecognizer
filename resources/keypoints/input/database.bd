@@ -1,0 +1,25 @@
+{
+  "ImageCount": 1,
+  "Image1": {
+    "ImageName": "Image1.png",
+    "BuildingCount": 1,
+    "Building1": {
+      "Point1": {
+        "x": 10,
+        "y": 20
+      },
+      "Point2": {
+        "x": 100,
+        "y": 200
+      },
+      "Point3": {
+        "x": 20,
+        "y": 30
+      },
+      "Point4": {
+        "x": 40,
+        "y": 50
+      }
+    }
+  }
+}
